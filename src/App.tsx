@@ -173,5 +173,8 @@ export default function App() {
   </a>
 </p>
       </footer>
+</div>
+);
+}
 
     
