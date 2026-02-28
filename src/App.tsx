@@ -151,31 +151,27 @@ export default function App() {
           100% Secure
         </div>
         © 2026 CashMyBrokenPhone
+        <p style={{ marginTop: "15px" }}>
+  📱 Instagram:{" "}
+  <a
+    href="https://instagram.com/indiabulkscrap"
+    target="_blank"
+    rel="noopener noreferrer"
+    style={{ fontWeight: "bold" }}
+  >
+    @indiabulkscrap
+  </a>
+</p>
+
+<p>
+  📞 Call:{" "}
+  <a
+    href="tel:+919179768610"
+    style={{ fontWeight: "bold" }}
+  >
+    +91 9179768610
+  </a>
+</p>
       </footer>
 
-    </div>
-  );
-}
-<div style={{ marginTop: "20px", textAlign: "center" }}>
-  <p>
-    📱 Instagram:{" "}
-    <a
-      href="https://instagram.com/indiabulkscrap"
-      target="_blank"
-      rel="noopener noreferrer"
-      style={{ fontWeight: "bold" }}
-    >
-      @indiabulkscrap
-    </a>
-  </p>
-
-  <p>
-    📞 Call:{" "}
-    <a
-      href="tel:+919179768610
-      style={{ fontWeight: "bold" }}
-    >
-      +91 9179768610
-    </a>
-  </p>
-</div>
+    
