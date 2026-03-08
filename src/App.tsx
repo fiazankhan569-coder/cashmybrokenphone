@@ -139,7 +139,7 @@ export default function App() {
             SEND MESSAGE
           </button>
           <button className="bg-white text-black px-8 py-4 rounded-full">
-            WHATSAPP US
+            <a href="https://wa.me/qr/N5ZXVJJKC6QFD1"> WHATSAPP US </a>
           </button>
         </div>
       </Section>
